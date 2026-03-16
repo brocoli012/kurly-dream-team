@@ -1,0 +1,26 @@
+{
+  "$schema": "kurly-dream-team-v1",
+  "version": "1.0",
+  "mode": "classic",
+  "session": {
+    "id": null,
+    "status": "inactive"
+  },
+  "activeRoles": ["master"],
+  "complexity": {
+    "estimated": null,
+    "confirmed": null
+  },
+  "research": {
+    "reportPath": null,
+    "existingCodeSearched": false,
+    "reuseDecision": null,
+    "libraryReviewed": false,
+    "conflictAnalysis": { "done": false, "risks": [] }
+  },
+  "loops": {
+    "feedback": { "current": 0, "max": 3, "history": [] },
+    "qaGate": { "current": 0, "max": 3, "history": [] }
+  },
+  "violations": []
+}
